@@ -1,0 +1,2 @@
+# WordPress-Modulo2-40-horas
+ O curso de WordPress profissional foi desenvolvido pelo curso em video com patrocínio da HostNet. As aulas são ministradas pelo professor Guanabara e pelo diretor de tecnologia da HostNet Ramiro Lobo, trazendo para o mercado um curso diferente, que além de ensinar a usar tecnicamente a plataforma WordPress, vai te ensinar a criar sites de forma profissional usando plugins e temas gratuitos.
