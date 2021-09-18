@@ -1,0 +1,25 @@
+Aula falando sobre performance do site.
+
+Dica da aula #1
+O Google pontua de uma forma positiva sites que carreguem mais rápido, são 2 fatores principais no que se diz respeito a performance um deles e as imagens que devem ser comprimidas de forma correta e de preferencia subir e carregar imagens para as paginas do tamanho mais aproximado possível de exibição (mídia como um todo, vídeos também), e o outro ponto e carregamento de pagina rápido, uma pagina não pode estar muito poluído com código HTML desnecessário, colocar em cache para que seja feita a consulta no banco de dados para cada novo acesso, colocando em cache reduzimos o uso do servidor.
+
+Dica da aula #2
+Na aula foi demonstrado o site developers.google.com, o site montado no modulo 1 deu como resultado a nota 74 em mobile e 87 no desktop sem cache
+
+Dica da aula #3
+No plugin ewww image optimizer na aba resize deve estar marcada a opção de resize detection (vai marcar as imagens que precisam ser redimensionadas), quando essa opção estiver marcada, toda imagem que estiver mau dimensionada vai ser destacada com um pontilhado envolta.
+
+Dica da aula #4
+Ativar o plugin wp super cache > configurações na aba fácil > cache ligado (recomendação do Ramiro e habilitar o cache por ultimo para que as alterações fiquem visíveis de forma mais fácil, caso contrario, toda a alteração que for feita deve ser limpo o cache antes para que apareça de forma efetiva.)
+
+(A dica do Ramiro aqui é sempre marcar as opções recomendadas pelo próprio plugin).
+
+Na aba avançado > comprimir paginas de modo que são servidas mais rapidamente aos visitantes. (recomendado)
+Na aba avançado > cache de cabeçalhos HTTP com conteúdo da pagina. (recomendado)
+Na aba avançado > 304 cache do navegador. Melhora o desempenho do site, verificando se a pagina foi alterada desde a ultima vez que o navegador a solicitou. (recomendado)
+Na aba avançado > verificações extra da pagina inicial. (muito ocasionalmente para o cache da pagina inicial) (recomendado)
+
+CDN é uma rede de distribuição de conteúdo, não usar se estiver trabalhando com WordPress em localhost.
+## Recomendação do Ramiro, se você tiver um site com muitos artigos ou uma loja com muitos itens não fazer pré-carga, se for um site com poucas paginas *ligar* se for muitas paginas *não ligar*.
+
+Foi feita uma nova verificação depois de configurar o super cache e as novas pontuações foram, 75 no mobile e 90 no desktop.
