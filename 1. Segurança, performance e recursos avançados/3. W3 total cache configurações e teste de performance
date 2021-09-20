@@ -1,1 +1,15 @@
-aula sobre o plugin w3 total cache
+Aula falando sobre uma alternativa melhor para plugin de cache.
+
+Resultados sem cache:
+mobile: 74
+desktop: 87
+
+Com o plugin wp super cache:
+mobile: 88
+desktop: 92
+
+Com o plugin w3 total cache:
+mobile: 89
+desktop: 98
+
+reforçando sobre a importância de usar imagens do tamanho mais próximo possível, que sera exibida na pagina, para que não seja carregada uma imagem muito grande e seja feita a compactação atraves de software, isso é muito ruim e prejudicial na indexação das suas paginas no Google.
