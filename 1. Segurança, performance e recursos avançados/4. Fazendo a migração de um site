@@ -1,0 +1,11 @@
+Aula falando sobre a migração de um site tanto de um provedor para outro ou quando foi desenvolvido em localhost.
+
+    1. Criar banco de dados.
+    2. Instalar plugin duplicator “por snop creek”.
+    3. Criar os pacotes com o plugin.
+    4. Baixar os 2 pacotes para fazer a instalação no seu novo servidor.
+    5. Acessar o dominio com o final dele sendo /installer.php.
+
+Obs 1: Na aula foi reforçado o cuidado com o timeout no processo de migração, aumentar caso seja necessario.
+
+Obs 2: O plugin duplicator migra inclusice loja, só não migra quando é multisite para isso precisa da versao pró.
