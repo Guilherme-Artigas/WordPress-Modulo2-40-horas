@@ -1,1 +1,6 @@
-aula 2 de 2 falando sobre segurança do WordPress
+Aula 2 de 2 falando sobre segurança no WordPress
+
+Aula continuando as configurações do plugin WP Cerber Security Antispam e Malware Scan "Por Cerber Tech Inc", existe muitas funções dentro do addon/plugin e o recomendado é sempre a pessoa ler cada opção e marcar o que é necessário, se caso existe alguma duvida sobre uma configuração especifica foi recomendado na aula fazer uma pesquisa sobre determinada opção.
+
+Dica da aula #1
+Esse plugin tem a opção de ativar reCAPTCHA, mecanismo para a pessoa mercar a opção e confirmar que não é um robô.
